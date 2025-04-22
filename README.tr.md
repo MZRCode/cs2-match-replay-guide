@@ -31,7 +31,7 @@
 ## 🔗 Desteklenen Maç Türleri
 Maç geçmişinize aşağıdaki temel bağlantıyı kullanarak ulaşabilirsiniz:  
 ```
-https://steamcommunity.com/id/mzrdev/gcpd/730?tab=OYUN_MODU
+https://steamcommunity.com/id/STEAM_KULLANICI_ID/gcpd/730?tab=OYUN_MODU
 ```
 
 Değiştirmeniz gereken yerler:
